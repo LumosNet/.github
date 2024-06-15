@@ -6,7 +6,7 @@
 
 ## 简介
 
-[Lumos](https://gitee.com/lumos-net/lumos)是一个简洁的轻量级深度学习框架，帮助学习、研究深度学习算法和底层实现的学者和爱好者更容易学习相关内容，希望该框架是你学习过程中指引你的荧光。
+[Lumos](https://github.com/LumosNet/Lumos)是一个简洁的轻量级深度学习框架，帮助学习、研究深度学习算法和底层实现的学者和爱好者更容易学习相关内容，希望该框架是你学习过程中指引你的荧光。
 
 Lumos的目标从来不是为了比肩TensorFlow或者Pytorch这样的顶级开源框架，而是希望更好的展现底层算法实现，提供给使用者更灵活的使用体验。同时希望有更多的人不止能在上层框架构建成熟应用，更能对底层算法原理和实现技巧有更多的关注。
 
@@ -24,18 +24,16 @@ Lumos框架现在只提供了最基本的网络组件，对于一些特定算法
 
 ## 下载
 
-版本                    | 链接                                                                                                                                                                           | Coretype
------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
-**v0.1**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_cpu.run)           | CPU
-**v0.1**                 | [<img src="https://img.shields.io/badge/Lumos-GPU-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_gpu.run)           | GPU
+版本                    | 链接                                                                                                                                                                           |
+----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_cpu.run)
 
 
 ## 代码库
 
 名                    | 链接                                                                                                                                                                           | 描述
 ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
-**Lumos**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos)           | Lumos CPU版核心代码仓库
-**Lumos-Gpu**                 | [<img src="https://img.shields.io/badge/Lumos-GPU-brightgreen" />](https://github.com/LumosNet/Lumos-Gpu)           | Lumos GPU版核心代码仓库
+**Lumos**                 | [<img src="https://img.shields.io/badge/Lumos-CPU-brightgreen" />](https://github.com/LumosNet/Lumos)           | Lumos 核心代码仓库
 **Lumos-Python**                 | [<img src="https://img.shields.io/badge/Lumos-Python-brightgreen" />](https://github.com/LumosNet/Lumos-Python)           | Lumos Python版核心代码仓库
 **Lumos-Demos**                 | [<img src="https://img.shields.io/badge/Lumos-Demos-brightgreen" />](https://github.com/LumosNet/Lumos-Demos)           | Lumos 提供的Demos
 **Lumos-Build**                 | [<img src="https://img.shields.io/badge/Lumos-Build-brightgreen" />](https://github.com/LumosNet/Lumos-Build)           | Lumos 历史发行版本
