@@ -26,7 +26,7 @@ Lumos框架现在只提供了最基本的网络组件，对于一些特定算法
 
 版本                    | 链接                                                                                                                                                                           |
 ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/raw/main/v0.1.0/lumos_0.1.0_linux_cpu.run)
+**v1.0**                 | [<img src="https://img.shields.io/badge/Lumos-v1.0-brightgreen" />](https://github.com/LumosNet/Lumos-Build/archive/refs/targs/v1.0.zip)
 
 
 ## 代码库
@@ -34,7 +34,6 @@ Lumos框架现在只提供了最基本的网络组件，对于一些特定算法
 名                    | 链接                                                                                                                                                                           | 描述
 ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
 **Lumos**                 | [<img src="https://img.shields.io/badge/Lumos-Main-brightgreen" />](https://github.com/LumosNet/Lumos)           | Lumos 核心代码仓库
-**Lumos-Python**                 | [<img src="https://img.shields.io/badge/Lumos-Python-brightgreen" />](https://github.com/LumosNet/Lumos-Python)           | Lumos Python版核心代码仓库
 **Lumos-Build**                 | [<img src="https://img.shields.io/badge/Lumos-Build-brightgreen" />](https://github.com/LumosNet/Lumos-Build)           | Lumos 历史发行版本
 
 ## 联系我们：
